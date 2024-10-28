@@ -1,0 +1,22 @@
+.anyClass {
+  height: 100vh;
+  width: 100%;
+  overflow-y: scroll;
+}
+body{
+  height: 100%;
+} 
+ 
+.fullHeight{
+  height: 100vh;
+} 
+.center-this{
+  display: grid;
+  place-items: center;
+  align-content: center;
+  padding: 10px;
+}
+.textTalkAndListent{
+  display: block;
+}
+
